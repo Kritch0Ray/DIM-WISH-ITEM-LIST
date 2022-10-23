@@ -1,0 +1,12 @@
+title:白花之歌的GR
+description:一些PVEorPVP的武器（我喜欢的）
+some PVE OR PVP weapon gr （MY Favorite）
+
+// Mechabre - 经典自填斩首狙击 (god-pve,pve,mnk,controller)
+//notes: 大师拉个操作性 tags:god-pve,pve,mnk,controller
+dimwishlist:item=1280894514&perks=1840239774,1087426260,3300816228,1546637391
+
+
+// BrayTech Werewolf - 布瑞科技狼人 (god-pvp,mnk,pvp)
+//notes: 450步枪的奇妙手感，51的稳定性鼠标也可以压得不错。21.92米的射程是一个奇妙的临界射程 tags:god-pvp,mnk,pvp
+dimwishlist:item=2869466318&perks=3250034553,1885400500,1359896290,1890422124
